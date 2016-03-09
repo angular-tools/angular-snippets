@@ -1,0 +1,22 @@
+{
+  "name": "angular-snippets",
+  "authors": [
+    "minutephp <dev@minutephp.com>"
+  ],
+  "description": "Simple AngularJS plugin to bind and compile HTML code as snippets",
+  "main": "src/js/angular-snippets.js",
+  "keywords": [
+    "angularjs",
+    "snippets",
+    "replacement"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.minutephp.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
